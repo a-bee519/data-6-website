@@ -1,9 +1,8 @@
-# Abigale Wee
 [music](music.md)
 
-[writing]
+[writing](writing.md)
 
-[research]
+[research](research.md)
 
-[art]
+[art](art.md)
 
