@@ -1,3 +1,9 @@
 # Abigale Wee
-## about me?
+[music]
+
+[writing]
+
+[research]
+
+[art]
 
