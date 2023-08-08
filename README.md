@@ -1,5 +1,5 @@
 # Abigale Wee
-[music]("music.md")
+[music](music.md)
 
 [writing]
 
