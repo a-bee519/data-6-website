@@ -1,9 +1,7 @@
 # music
-i've been playing music for 13 years. 
+i've been playing music for 15 years. find selected recordings below.
 - [resume](https://docs.google.com/document/d/1ZLc4cQKkgmcxDnS1oJXSCaqyh-3oZEkO1LNEUz8Rcmw/edit)
 - [repetoire](https://docs.google.com/document/d/1FM3127EYe8AA8sA4nB22PrUIoWcECERWFumda7vuZhY/edit)
-
-<br> find selected recordings below.
 <hr>
 
 ### violin concerto in a minor, opus 82 - alexander glazunov
