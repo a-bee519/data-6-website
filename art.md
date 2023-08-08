@@ -2,14 +2,14 @@
 
 ## cobalt blue
 ### oil and tempera paint on canvas, 32x12
- <img src=IMG_0047.jpeg"./IMAGE.PNG" style="width:50%; margin:auto; display:block">
+ <img src="./IMG_0047.jpeg" style="width:50%; margin:auto; display:block">
 
 Through this piece, I wanted to bring awareness to Congan child cobalt miners, whose well-being and health are exploited by the global demand for cobalt in lithium-ion batteries found in portable electronics, electric cars, and other technologies. This work depicts twelve flowers and the silhouette of an elephant. The flowers, eight irises, and four calla lilies are painted with cobalt blue pigment and bear the meaning of innocence, purity, beauty, and hope. Each iris represents 100 thousand children (800,000 total who work in state-run cobalt mines) and each calla lily represents ten thousand children (40,000 total who work in illegal cobalt mines). The integration of the elephant represents the mental and physical strength of child cobalt miners and how they are forced to forfeit their childhood to make a living. Finally, the negotiation between the black and white pigment on the canvas expresses the dehumanizing impacts of consumer greed on the lives of these child miners. 
 While the use of technologies containing lithium-ion batteries is becoming increasingly common, the value that is placed on increasingly rapid development often overlooks its cost—the exploitation of children in third world countries. The research on child cobalt miners in the Democratic Republic of Congo (DRC) for this work opened my eyes to the way we perpetuate the tech industry’s reliance on child labor through our regular consumption of portable electronic devices. As someone who, like many others, regularly uses cobalt-containing technologies such as laptops and cellphones, I believe that it is imperative to work towards developing sustainable practices around material sourcing and aim towards eliminating the use of cobalt in lithium-ion batteries. 
 
 ## shame
 ### sumi ink, korean traditional pigments, and watercolor on rice paper, 24x18
- <img src=IMG_0048.png"./IMAGE.PNG" style="width:50%; margin:auto; display:block">
+ <img src="./IMG_0048.png" style="width:50%; margin:auto; display:block">
 
 This piece explores the feeling of shame, bringing together the philosophical, psychological, emotional, and physical aspects of shame through western and eastern artistic media.
 Emotions are not linear. We experience them in gradients as they spill out of the neat boundaries we set for ourselves. This uncontrolled aspect of emotion is represented through the spread of Sumi ink on rice paper. My experience of shame has reflected this process—often, my ego and confidence will be tainted by the feeling of shame. The way the ink spreads in this piece allows for gradients in shade, representing the spectrum that shame can be experienced and expressed. 
@@ -18,7 +18,7 @@ Shame has been tied to human history since the beginning. The peacock is a symbo
 
 ## for keeps
 ###sumi ink, korean traditional pigments, and watercolor on rice paper, 24x18
- <img src=IMG_0049.png"./IMAGE.PNG" style="width:50%; margin:auto; display:block">
+ <img src="./IMG_0049.png" style="width:50%; margin:auto; display:block">
 <p style="text-align: center;">*“We know ourselves to be part of mystery.
 <br> It is unspeakable.
 <br> It is everlasting.
