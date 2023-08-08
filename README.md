@@ -1,5 +1,3 @@
-# data-6-website
-
-#Abigale Wee
-## sa sarad o'r nadalcanar
+# Abigale Wee
+## about me?
 
